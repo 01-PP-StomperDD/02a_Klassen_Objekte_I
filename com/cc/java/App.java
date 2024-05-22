@@ -6,8 +6,5 @@ public class App {
 
 
     System.out.println("Fuck the shit i am out!");}
-
-   
-
 }
 
